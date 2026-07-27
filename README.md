@@ -326,11 +326,11 @@ curl -X GET "http://localhost:8000/health"
 
 ## 🖼️ Application Screenshots
 
-### Main Interface & Valuation Form
-![Main Interface Placeholder](docs/screenshots/form_interface.png)
+![Prediction Output Placeholder](https://github.com/user-attachments/assets/745e2b2a-5129-4f96-aac7-b76955b95916)
 
-### Prediction Output & Summary Breakdown
-![Prediction Output Placeholder](docs/screenshots/prediction_result.png)
+![Prediction Output Placeholder](https://github.com/user-attachments/assets/5da6f3a1-6ac6-49a0-8fb3-7b3eead567c2)
+
+![Prediction Output Placeholder](https://github.com/user-attachments/assets/c6f7d0ac-f261-4c23-8c01-8c6afd44bf6c)
 
 ---
 

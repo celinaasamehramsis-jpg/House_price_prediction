@@ -2,7 +2,8 @@
 
 An end-to-end production-grade real estate house price valuation web application powered by **FastAPI**, **scikit-learn**, **React**, **TypeScript**, and **Vite**.
 
-![Application Screenshot Placeholder](docs/screenshots/app_preview.png)
+![Application Screenshot Placeholder](<img width="1892" height="957" alt="Screenshot 2026-07-27 161727" src="https://github.com/user-attachments/assets/4fa92b7b-2ebe-43d8-a90e-3a0da6db0004" />)
+
 
 ---
 
